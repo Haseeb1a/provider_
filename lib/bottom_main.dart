@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:workouttraker/function/db_functions/db_functions.dart';
+import 'package:workouttraker/function/db_functions.dart';
 import 'package:workouttraker/view/screens_wtg/chart_wdt.dart';
 import 'package:workouttraker/view/screens_wtg/mainpage.dart';
 import 'package:workouttraker/view/screens_wtg/settings_wdt.dart';

@@ -2,7 +2,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:workouttraker/sub_screens_wtd/other_SUB/create.dart';
+import 'package:workouttraker/view/sub_screens_wtd/other_sub/create.dart';
 
 class Calf extends StatelessWidget {
   const Calf({Key? key}) : super(key: key);

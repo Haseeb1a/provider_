@@ -1,4 +1,4 @@
-import 'package:workouttraker/function/db_functions/db_functions.dart';
+import 'package:workouttraker/function/db_functions.dart';
 import 'package:workouttraker/model/task_model/workoutmodel1.dart';
 
 int getDayTasksCount() {

@@ -129,7 +129,7 @@ class ChartState extends State<Chart> {
                 ],
               ),
               AspectRatio(
-                aspectRatio: 1.3,
+                aspectRatio: 1.8,
                 child: PieChart(
                   PieChartData(
                     pieTouchData: PieTouchData(
@@ -203,7 +203,7 @@ class ChartState extends State<Chart> {
   }
 
   List<PieChartSectionData> generateChartData(double value1, double value2) {
-    final List<Color> colors = [Colors.green[900]!, Colors.red[400]!];
+    final List<Color> colors = [Colors.green!, Colors.red!];
     final List<double> values = [value1, value2];
 
     // Handle division by zero

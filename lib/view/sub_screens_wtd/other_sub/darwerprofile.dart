@@ -4,7 +4,7 @@ import 'package:google_fonts/google_fonts.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:image_picker/image_picker.dart';
 import 'package:workouttraker/view/sub_screens_wtd/other_sub/profileedit.dart';
-import '../../../function/db_functions/db_person.dart';
+import '../../../function/db_person.dart';
 import '../../../model/person_model/persondata.dart';
 
 class Profile extends StatefulWidget {

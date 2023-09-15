@@ -1,9 +1,10 @@
 import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:workouttraker/function/db_functions/db_person.dart';
 import 'package:workouttraker/model/person_model/persondata.dart';
 import 'package:shared_preferences/shared_preferences.dart';
+
+import '../../../function/db_person.dart';
 
 class Profileedit extends StatefulWidget {
   

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_slidable/flutter_slidable.dart';
-import 'package:workouttraker/function/db_functions/db_functions.dart';
+import 'package:workouttraker/function/db_functions.dart';
 import 'package:workouttraker/model/task_model/workoutmodel1.dart';
 import 'package:intl/intl.dart';
 import 'package:workouttraker/view/sub_screens_wtd/other_sub/edit.dart';
