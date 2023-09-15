@@ -7,7 +7,7 @@ import 'package:shared_preferences/shared_preferences.dart';
 import 'package:workouttraker/function/db_functions/db_person.dart';
 import 'package:workouttraker/model/person_model/persondata.dart';
 import 'package:image_picker/image_picker.dart';
-import 'package:workouttraker/sub_screens_wtd/other_sub/profileedit.dart';
+import 'package:workouttraker/view/sub_screens_wtd/other_sub/profileedit.dart';
 
 // --------------------------------------------------------------------
 class Profile extends StatefulWidget {

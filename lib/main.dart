@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:workouttraker/function/db_functions/db_functions.dart';
 import 'package:workouttraker/model/person_model/persondata.dart';
 import 'package:workouttraker/model/task_model/workoutmodel1.dart';
-import 'package:workouttraker/sub_screens_wtd/other_sub/splace.dart';
+import 'package:workouttraker/view/sub_screens_wtd/other_sub/splace.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 
 Future<void> main() async {

@@ -1,8 +1,8 @@
 import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:workouttraker/sub_screens_wtd/settings_sub/about.dart';
-import 'package:workouttraker/sub_screens_wtd/settings_sub/terms_&_condition.dart';
+import 'package:workouttraker/view/sub_screens_wtd/settings_sub/about.dart';
+import 'package:workouttraker/view/sub_screens_wtd/settings_sub/terms_&_condition.dart';
 import 'package:workouttraker/utility/reset_function.dart';
 
 class Settings extends StatefulWidget {

@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:workouttraker/function/db_functions/db_functions.dart';
-import 'package:workouttraker/main_wgts/chart_wdt.dart';
-import 'package:workouttraker/main_wgts/mainpage.dart';
-import 'package:workouttraker/main_wgts/settings_wdt.dart';
-import 'package:workouttraker/main_wgts/task_wtd.dart';
+import 'package:workouttraker/view/screens_wtg/chart_wdt.dart';
+import 'package:workouttraker/view/screens_wtg/mainpage.dart';
+import 'package:workouttraker/view/screens_wtg/settings_wdt.dart';
+import 'package:workouttraker/view/screens_wtg/task_wtd.dart';
 
 class ScreeenHome extends StatefulWidget {
   const ScreeenHome({super.key});

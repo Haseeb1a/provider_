@@ -1,8 +1,10 @@
 import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:workouttraker/main_wgts/home_ex.dart';
-import 'package:workouttraker/sub_screens_wtd/other_sub/darwerprofile.dart';
+
+import 'package:workouttraker/view/sub_screens_wtd/other_sub/darwerprofile.dart';
+
+import 'home_ex.dart';
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
 

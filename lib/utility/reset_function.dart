@@ -6,7 +6,7 @@ import 'package:hive/hive.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:workouttraker/model/person_model/persondata.dart';
 import 'package:workouttraker/model/task_model/workoutmodel1.dart';
-import 'package:workouttraker/sub_screens_wtd/other_sub/login.dart';
+import 'package:workouttraker/view/sub_screens_wtd/other_sub/login.dart';
 
 
 //clear from db - reset

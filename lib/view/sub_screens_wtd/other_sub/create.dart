@@ -3,7 +3,8 @@ import 'package:flutter/services.dart';
 import 'package:workouttraker/function/db_functions/db_functions.dart';
 import 'package:intl/intl.dart';
 import 'package:workouttraker/model/task_model/workoutmodel1.dart';
-import 'package:workouttraker/main_wgts/bottom_main.dart';
+
+import '../../../bottom_main.dart';
 
 class Textng extends StatefulWidget {
   const Textng({super.key});

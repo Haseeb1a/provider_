@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:workouttraker/sub_screens_wtd/other_sub/login.dart';
+import 'package:workouttraker/view/sub_screens_wtd/other_sub/login.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 class SplaceScreen extends StatefulWidget {
